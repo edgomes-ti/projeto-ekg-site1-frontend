@@ -36,20 +36,28 @@ Os links fornecidos neste site são reais e direcionam para as páginas onde os 
    cd projeto-ekg-site1-frontend
 
 2. Instale as dependências:
-    'npm install'
-   
+   ```bash
+   npm install
+
 ### Executar Localmente
+
 Inicie o servidor de desenvolvimento:
-      'npm start'
+   ```bash
+   npm start
 
 2. Abra o navegador e acesse http://localhost:3000.
 
 ### Publicação
 Construa o projeto:
-      'npm run build'
+
+   ```bash
+   npm run build
 
 2. Publique no GitHub Pages:
-      'npm run deploy'
+  
+   ```bash
+   npm run deploy
+
 
 ## CONTRIBUIBUIÇÕES
 Sinta-se à vontade para contribuir! Envie pull requests para novas funcionalidades, correções de bugs ou melhorias na documentação. No entanto, lembre-se de que este site é utilizado para representar várias instituições educacionais como afiliado. Por isso, alterações nos links ou na estrutura dos componentes que possam comprometer a proposta do site devem ser evitadas.
