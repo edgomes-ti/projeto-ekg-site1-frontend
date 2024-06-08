@@ -73,7 +73,9 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 Para mais informações, entre em contato comigo:
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5531997839600)
+
 [Instagram](https://instagram.com/ekgssolutions_educacional)
+
 [Facebook](https://facebook.com/profile.php?id=61551154594619)
 
 Obrigado por visitar e utilizar o site do Projeto EKG Site 1!
