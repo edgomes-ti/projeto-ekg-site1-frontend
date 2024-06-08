@@ -2,7 +2,7 @@
   "name": "projeto-ekg-site1-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seu-usuario.github.io/projeto-ekg-site1-frontend",
+  "homepage": "https://edgomes-ti.github.io/projeto-ekg-site1-frontend",
   "proxy": "http://localhost:5000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
