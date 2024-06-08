@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Projeto EKG Site 1 - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o frontend do Projeto EKG Site 1, desenvolvido em React e publicado no GitHub Pages.
 
-## Available Scripts
+## SOBRE O PROJETO
 
-In the project directory, you can run:
+Este protótipo foi criado por mim, Edmilson Gomes, como parte do meu trabalho como consultor educacional. Represento várias instituições de ensino superior como afiliado, incluindo Anhanguera, Unopar, Pitágoras, Estácio, Unifatecie, Uninta, PUC-RS, Uninter, Faculdade Descomplica, e Cruzeiro do Sul (Online). 
 
-### `npm start`
+Os links fornecidos neste site são reais e direcionam para as páginas onde os visitantes podem consultar os cursos, se matricular e entrar em contato comigo. Portanto, é essencial ter cautela ao promover mudanças nos códigos para não prejudicar a proposta e funcionalidade do site.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-G
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## INSTITUIÇÕES REPRESENTADAS
 
-### `npm test`
+- Anhanguera
+- Unopar
+- Pitágoras
+- Estácio
+- Unifatecie
+- Uninta
+- PUC-RS
+- Uninter
+- Faculdade Descomplica
+- Cruzeiro do Sul (Online)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## CONFIGURAÇÃO:
 
-### `npm run build`
+### Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node.js (versão 14 ou superior)
+- npm (gerenciador de pacotes do Node.js)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Instalação
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-ekg-site1-frontend.git
+   cd projeto-ekg-site1-frontend
 
-### `npm run eject`
+2. Instale as dependências:
+    'npm install'
+   
+### Executar Localmente
+Inicie o servidor de desenvolvimento:
+      'npm start'
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Abra o navegador e acesse http://localhost:3000.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Publicação
+Construa o projeto:
+      'npm run build'
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Publique no GitHub Pages:
+      'npm run deploy'
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## CONTRIBUIBUIÇÕES
+Sinta-se à vontade para contribuir! Envie pull requests para novas funcionalidades, correções de bugs ou melhorias na documentação. No entanto, lembre-se de que este site é utilizado para representar várias instituições educacionais como afiliado. Por isso, alterações nos links ou na estrutura dos componentes que possam comprometer a proposta do site devem ser evitadas.
 
-## Learn More
+## LICENÇA
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## CONTATO
+Para mais informações, entre em contato comigo:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+WhatsApp
+Instagram
+Facebook
 
-### Code Splitting
+Obrigado por visitar e utilizar o site do Projeto EKG Site 1!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este `README.md` fornece uma visão geral completa do projeto, instruções de instalação, execução e publicação, informações sobre contribuição e uma nota importante sobre a natureza do site e os cuidados ao modificar o código.
