@@ -31,24 +31,28 @@ Os links fornecidos neste site são reais e direcionam para as páginas onde os 
 ### Instalação
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/seu-usuario/projeto-ekg-site1-frontend.git
    cd projeto-ekg-site1-frontend
 
-2. Instale as dependências:
+3. Instale as dependências:
+
    ```bash
    npm install
 
 ### Executar Localmente
 
-Inicie o servidor de desenvolvimento:
+1. Inicie o servidor de desenvolvimento:
+
    ```bash
    npm start
 
 2. Abra o navegador e acesse http://localhost:3000.
 
 ### Publicação
-Construa o projeto:
+
+1. Construa o projeto:
 
    ```bash
    npm run build
