@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Institution from './components/Institution';
-import UnifatecieCourses from './components/UnifatecieCourses';
+import UnifatecieCourses from './components/UnifatecieCourses'; // Adicione esta linha
 import './App.css';
 
 const App = () => {
@@ -37,6 +37,7 @@ const App = () => {
         <Institution id="pitagoras" name="Pitágoras" color="#0066cc" link="https://web.consultoriaeducacao.app.br/candidate/64fb33ac8b22950008df84d6?type=UNDERGRADUATE&brand=PITAGORAS&subBrand=ANHANGUERA" description="Cursos do Pitágoras" />
         <Institution id="estacio" name="Estácio" color="#007bff" link="https://estacio.br/inscricao/formulario?cod_agente=14369444&u=287985&end=1" description="Cursos da Estácio" />
         <Institution id="unifatecie" name="Unifatecie" color="#00cc66" link="https://wa.me/message/CXS35PL6ULSUE1" description="Entre em contato pelo WhatsApp para mais informações" />
+        <UnifatecieCourses />
         <Institution id="uninta" name="Uninta" color="#cc33ff" link="https://uninta.online/digital?codae=KSD584#inscreva-se" description="Cursos da Uninta" />
         <Institution id="pucrs" name="PUC-RS" color="#336699" link="https://wa.me/message/CXS35PL6ULSUE1" description="Entre em contato pelo WhatsApp para mais informações" />
         <Institution id="uninter" name="Uninter" color="#ff6600" link="https://www.uninter.com/parceiro/?hash=70DgPqJpvjeEXJznyJXfu44e744BN1zP8mPzGdskfAPVRcmlcDn8YsxcfRbl17W0EpcUpmrhwFI" description="Cursos da Uninter" />
